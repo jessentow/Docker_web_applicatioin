@@ -9,7 +9,7 @@ To run the web application locally, you'll need to follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/isaack-njama/docker-web-app.git
+   git clone https://github.com/jessentow/Docker_web_applicatioin.git
    ```
 
 2. **Navigate to the Project Directory:**
